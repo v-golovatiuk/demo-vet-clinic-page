@@ -1,8 +1,8 @@
 # Site settings
 title: Vet Clinic
 description: "Demo Web form for pactice Automation Testing"
-baseurl: "/clinic" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+baseurl: "/demo-vet-clinic-page/" # the subpath of your site, e.g. /blog
+url: "https://v-golovatiuk.github.io/demo-vet-clinic-page/" # the name of your domain
 logo_url: svg/logo-vet.svg
 
 # Hero
